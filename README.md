@@ -152,18 +152,3 @@ Fake news tackled with facts!
 - To make system adaptive to other languages and detect region specific biases.
 - To investigate new features to flag fake news.
 
-## 11. Credits: 
-Thanking my project teammates for always inspiring and motivating me throughout the journey.
-<div class="align-text">
-  <p>
-    <p text-align= "justify"> Rohan Arora : https://www.linkedin.com/in/rohanarora18/  </p> 
-    <img src="https://user-images.githubusercontent.com/47279598/123132503-70441a80-d46c-11eb-9157-47d93081864d.png" align="justfy" width="250" height="250"/>
-    <p text-align= "justify"> Shreya Dhingra https://www.linkedin.com/in/shreya-dhingra-927b19190 </p>  
-    <img src="https://user-images.githubusercontent.com/47279598/123132674-9c5f9b80-d46c-11eb-9e0e-5c7d716fb811.png" align="justify" width="250" height="250"/>
-    <p text-align= "justify"> Adarsh Kumar https://www.linkedin.com/in/adarsh-kumar-5b1a1719b </p>  
-    <img src="https://user-images.githubusercontent.com/47279598/123133053-fc564200-d46c-11eb-8b87-cea10612aee1.png" align="justfy" width="250" height="250"/>
-  </p>
-</div>
-
-## 12. License: 
-- Apache License 2.0
